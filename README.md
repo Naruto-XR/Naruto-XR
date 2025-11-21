@@ -1,49 +1,68 @@
 <div align="center">
   <h1>
-    Hi there, I'm Rao Hai!
+    Hi there, I'm Khaled!
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
   </h1>
 
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
   <p>
-    <em>🚀 Full Stack / AI Engineer at <a href="https://afx-team.github.io/">Alipay Experience Technology Department</a></em>
+    <em>🚀 Developer | Content Creator | Anime Projects Owner</em>
   </p>
 
   <p>
-    <a href="https://github.com/RaoHai">
-      <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
+    <a href="https://www.youtube.com/@khaled-DaVYANimE">
+      <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" />
     </a>
-    <a href="https://github.com/RaoHai">
-      <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
+    <a href="https://t.me/EgyptianHokage">
+      <img src="https://img.shields.io/badge/Telegram-Join%20Channel-blue?logo=telegram&style=for-the-badge" />
+    </a>
+    <a href="https://wa.me/201067205399">
+      <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&style=for-the-badge" />
     </a>
   </p>
 </div>
 
 ---
 
-## 🎤 Conference Presentations
+## 📂 My Projects — مشاريعي
 
- - **W3C — TPAC 2025 & WebEvolve 2025** / Web AI Agent Rendering Containers — Dynamic architectures and the need for standardization
-   - [TPAC 2025](https://www.w3.org/events/meetings/32b7c7e5-b0cf-42c9-94c4-9e384526f4a3/#join): [Slides / English](https://www.w3.org/2025/11/13-chinese-web-minutes.html#b888)
-   - [WebEvolve 2025](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/high-perf.en.html): [Slides / Chinese](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/slides/hai-rao.pdf)
-
-
- - **[第十三届中国用户体验大会](https://www.uxacn.com/)**  / AI Agent for Accessibility
-
-- **[GMTC 2021](https://gmtc.infoq.cn/2021/beijing/presentation/3526)** /  [蚂蚁前端灰度监控与变更防御](https://gmtc.infoq.cn/2021/beijing/presentation/3526)
+### 🎬 موقع مشاهدة الأنمي — Hokage Anime
+موقع لمشاهدة الأنمي بجودة عالية وواجهة سلسة.  
+🔗 https://hokage.shop/?i=1  
 
 ---
 
-## 📝 Latest Blog Posts
+### ❄️ بيتك كلين — تنظيف وصيانة المكيّفات  
+خدمة تنظيف وصيانة المكيّفات باحترافية عالية.  
+🔗 https://betak-clean.site/?i=1  
 
-- 🌐 [2023 Google I/O Connect Shanghai 参会总结：云，AI 与 Web](https://yuque.com/luchen/buzhou/lbtio5z9p8gssn26) - September 11, 2023
+---
 
-- 📊 [[个人向] Google State of DevOps Reports 2022 解读](https://yuque.com/luchen/buzhou/za1pom) - October 18, 2022
+## 📺 YouTube Channel  
+قناتي على اليوتيوب (محتوى أنمي – تحليل – مقاطع مميزة)  
+🔗 https://www.youtube.com/@khaled-DaVYANimE  
 
-- 🔍 [在没有 SourceMap 的情况下反解源码](https://yuque.com/luchen/buzhou/dpbum7) - July 12, 2021
+---
 
-- 🎨 [为自己的团队定制 CSS 框架](https://yuque.com/luchen/buzhou/bs9tzt) - March 2, 2021
+## 📢 Telegram Channel  
+انضم إلينا لمتابعة أحدث أخبار الأنمي والمحتوى الحصري  
+🔗 https://t.me/EgyptianHokage  
 
-- 🔗 [How I Built A Self-Updating README by Webhooks and Netlify Functions.](https://yuque.com/luchen/buzhou/hga8n6) - July 20, 2020
+---
 
+## 💰 دعم عبر PayPal  
+إذا رغبت في دعم مشاريعي  
+🔗 https://www.paypal.com/paypalme/EgyptianHokage?country.x=EG&locale.x=ar_EG  
+
+---
+
+## 📬 Contact — تواصل معي
+
+- **📞 هاتف / Phone:** `01067205399`  
+  - رابط اتصال مباشر: <a href="tel:01067205399">اضغط هنا للاتصال</a>
+
+- **💬 واتساب / WhatsApp:**  
+  - https://wa.me/201067205399
+
+---
