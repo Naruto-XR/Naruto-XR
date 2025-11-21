@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
   <p>
-    <em>🚀 Developer | Content Creator | Anime Projects Owner</em>
+    <em>🚀 Full Stack Web Developer (Front-end & Back-end) | Content Creator | Anime Projects Owner</em>
   </p>
 
   <p>
@@ -25,44 +25,49 @@
 
 ---
 
-## 📂 My Projects — مشاريعي
+## 📂 My Projects
 
-### 🎬 موقع مشاهدة الأنمي — Hokage Anime
-موقع لمشاهدة الأنمي بجودة عالية وواجهة سلسة.  
-🔗 https://hokage.shop/?i=1  
-
----
-
-### ❄️ بيتك كلين — تنظيف وصيانة المكيّفات  
-خدمة تنظيف وصيانة المكيّفات باحترافية عالية.  
-🔗 https://betak-clean.site/?i=1  
+### 🎬 Hokage Anime — Anime Streaming Website
+A complete anime streaming platform with a fast, modern UI and high-quality episodes.
+<br>
+🔗 **Website:** https://hokage.shop/?i=1
 
 ---
 
-## 📺 YouTube Channel  
-قناتي على اليوتيوب (محتوى أنمي – تحليل – مقاطع مميزة)  
-🔗 https://www.youtube.com/@khaled-DaVYANimE  
+### ❄️ Betak Clean — AC Cleaning & Maintenance
+A professional platform for air-conditioner cleaning & maintenance services.
+<br>
+🔗 **Website:** https://betak-clean.site/?i=1
 
 ---
 
-## 📢 Telegram Channel  
-انضم إلينا لمتابعة أحدث أخبار الأنمي والمحتوى الحصري  
-🔗 https://t.me/EgyptianHokage  
+## 📺 YouTube Channel
+Anime videos, edits, reviews, and entertainment content.
+<br>
+🔗 **YouTube:** https://www.youtube.com/@khaled-DaVYANimE
 
 ---
 
-## 💰 دعم عبر PayPal  
-إذا رغبت في دعم مشاريعي  
-🔗 https://www.paypal.com/paypalme/EgyptianHokage?country.x=EG&locale.x=ar_EG  
+## 📢 Telegram Channel
+Join the Telegram channel for updates and exclusive anime content.
+<br>
+🔗 **Telegram:** https://t.me/EgyptianHokage
 
 ---
 
-## 📬 Contact — تواصل معي
+## 💰 Support Me — PayPal
+If you'd like to support my projects:
+<br>
+🔗 **PayPal:** https://www.paypal.com/paypalme/EgyptianHokage?country.x=EG&locale.x=ar_EG
 
-- **📞 هاتف / Phone:** `01067205399`  
-  - رابط اتصال مباشر: <a href="tel:01067205399">اضغط هنا للاتصال</a>
+---
 
-- **💬 واتساب / WhatsApp:**  
-  - https://wa.me/201067205399
+## 📬 Contact Me
+
+- **📞 Phone:** `01067205399`  
+  - <a href="tel:01067205399">Click here to call</a>
+
+- **💬 WhatsApp:**  
+  - https://wa.me/201067205399  
 
 ---
